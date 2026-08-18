@@ -1,1 +1,1 @@
-# M365-Fundementals
+# M365 Fundamentals
