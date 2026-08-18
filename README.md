@@ -1,1 +1,1 @@
-# M365 Fundamentals
+# Microsoft 365 Fundamentals
