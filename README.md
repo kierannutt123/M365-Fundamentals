@@ -4,6 +4,7 @@
 Practical user-facing guides for common Microsoft 365 applications, providing clear instructions, useful shortcuts, and everyday tips designed to help end users work more effectively and resolve common issues independently.
 
 ### [General Keyboard Shortcuts](https://github.com/kierannutt123/Keyboard-Shortcuts/tree/main)
+Common shortcuts for navigating, editing, formatting, and working more efficiently across Microsoft 365 applications.
 
 ### [Microsoft Outlook](https://github.com/kierannutt123/Microsoft-Outlook/tree/main)
 Used to manage email, calendars, contacts, and scheduling.
